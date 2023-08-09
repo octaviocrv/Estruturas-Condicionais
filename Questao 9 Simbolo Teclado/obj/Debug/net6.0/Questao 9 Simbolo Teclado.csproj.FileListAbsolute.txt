@@ -1,0 +1,15 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\bin\Debug\net6.0\Questao 9 Simbolo Teclado.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\bin\Debug\net6.0\Questao 9 Simbolo Teclado.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\bin\Debug\net6.0\Questao 9 Simbolo Teclado.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\bin\Debug\net6.0\Questao 9 Simbolo Teclado.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\bin\Debug\net6.0\Questao 9 Simbolo Teclado.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\refint\Questao 9 Simbolo Teclado.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\Questao 9 Simbolo Teclado.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 9 Simbolo Teclado\obj\Debug\net6.0\ref\Questao 9 Simbolo Teclado.dll

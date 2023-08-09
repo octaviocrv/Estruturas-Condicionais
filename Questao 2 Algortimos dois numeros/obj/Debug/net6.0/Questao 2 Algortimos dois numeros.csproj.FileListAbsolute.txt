@@ -1,0 +1,15 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\bin\Debug\net6.0\Questao 2 Algortimos dois numeros.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\bin\Debug\net6.0\Questao 2 Algortimos dois numeros.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\bin\Debug\net6.0\Questao 2 Algortimos dois numeros.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\bin\Debug\net6.0\Questao 2 Algortimos dois numeros.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\bin\Debug\net6.0\Questao 2 Algortimos dois numeros.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\refint\Questao 2 Algortimos dois numeros.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\Questao 2 Algortimos dois numeros.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 2 Algortimos dois numeros\obj\Debug\net6.0\ref\Questao 2 Algortimos dois numeros.dll

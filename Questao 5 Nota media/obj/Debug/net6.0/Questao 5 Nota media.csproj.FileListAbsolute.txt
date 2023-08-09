@@ -1,0 +1,15 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\bin\Debug\net6.0\Questao 5 Nota media.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\bin\Debug\net6.0\Questao 5 Nota media.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\bin\Debug\net6.0\Questao 5 Nota media.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\bin\Debug\net6.0\Questao 5 Nota media.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\bin\Debug\net6.0\Questao 5 Nota media.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\refint\Questao 5 Nota media.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\Questao 5 Nota media.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 5 Nota media\obj\Debug\net6.0\ref\Questao 5 Nota media.dll

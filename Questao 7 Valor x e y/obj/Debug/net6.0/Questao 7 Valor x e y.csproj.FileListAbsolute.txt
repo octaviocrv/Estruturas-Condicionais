@@ -1,0 +1,15 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\bin\Debug\net6.0\Questao 7 Valor x e y.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\bin\Debug\net6.0\Questao 7 Valor x e y.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\bin\Debug\net6.0\Questao 7 Valor x e y.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\bin\Debug\net6.0\Questao 7 Valor x e y.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\bin\Debug\net6.0\Questao 7 Valor x e y.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\refint\Questao 7 Valor x e y.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\Questao 7 Valor x e y.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 7 Valor x e y\obj\Debug\net6.0\ref\Questao 7 Valor x e y.dll

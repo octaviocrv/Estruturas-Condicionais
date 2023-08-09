@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4ZrLhA7zT6p3yOB55WjHD1cQF01vE/PFoVJkY6x9NAgTGvAx9f2TKtfJVJt9rrnhP7UEi639G6r/hp6VTte+Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Octavio Augusto\\Desktop\\Git\\Questao 3  Coeficientes da Equação\\Questao 3  Coeficientes da Equação.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

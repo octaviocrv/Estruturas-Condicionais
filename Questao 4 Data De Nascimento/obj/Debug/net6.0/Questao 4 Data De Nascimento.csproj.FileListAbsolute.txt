@@ -1,0 +1,15 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\bin\Debug\net6.0\Questao 4 Data De Nascimento.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\bin\Debug\net6.0\Questao 4 Data De Nascimento.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\bin\Debug\net6.0\Questao 4 Data De Nascimento.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\bin\Debug\net6.0\Questao 4 Data De Nascimento.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\bin\Debug\net6.0\Questao 4 Data De Nascimento.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\refint\Questao 4 Data De Nascimento.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\Questao 4 Data De Nascimento.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 4 Data De Nascimento\obj\Debug\net6.0\ref\Questao 4 Data De Nascimento.dll

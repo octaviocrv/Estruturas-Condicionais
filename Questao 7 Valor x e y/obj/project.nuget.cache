@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSHtI3qyIO/BKyBAHNKpsO0BBeGHFummIa5m3fpUxhJnt3qaKZx6aDW3KIXCw4FVCogX97C/QxfzbApnbO2MTg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Octavio Augusto\\Desktop\\Git\\Questao 7 Valor x e y\\Questao 7 Valor x e y.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Octavio Augusto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

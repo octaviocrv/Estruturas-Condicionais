@@ -1,0 +1,15 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\bin\Debug\net6.0\Questao 6 Hotel.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\bin\Debug\net6.0\Questao 6 Hotel.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\bin\Debug\net6.0\Questao 6 Hotel.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\bin\Debug\net6.0\Questao 6 Hotel.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\bin\Debug\net6.0\Questao 6 Hotel.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\refint\Questao 6 Hotel.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\Questao 6 Hotel.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios ATP_Lista 01 Condicional\Questao 6 Hotel\obj\Debug\net6.0\ref\Questao 6 Hotel.dll
